@@ -1,0 +1,1 @@
+# AQE_Taining_project_2024_Ritish_Bhardwaj
