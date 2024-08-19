@@ -5,19 +5,32 @@ Welcome to the Selenium Test Automation project! This repository contains variou
 ## 📁 Folder Structure
 
 ```plaintext
-src/test/
+src/test/java
 │
-├── script/
-│   ├── ExamplePage.java
-│   ├── GoogleSearchPage.java
-│   ├── QAFormPage.java
-│   └── WikipediaPage.java
-│
-└── test/
-    ├── TestExample.java
-    ├── TestGoogleSearch.java
-    ├── TestQAForm.java
-    └── TestWikipedia.java
+├── Automating_example.com/
+│   ├── pages
+│   │    └── script.java
+│   ├── Test
+│   │    └── test_script.java
+│   └── script.java 
+├── Automating_Google_search/
+│   ├── pages
+│   │    └── script.java
+│   ├── Test
+│   │    └── test_script.java
+│   └── script.java
+├── Automating_QAForm/
+│   ├── pages
+│   │    └── script.java
+│   ├── Test
+│   │    └── test_script.java
+│   └── script.java
+├── Automating_Wikipedia/
+    ├── pages
+    │    └── script.java
+    ├── Test
+    │    └── test_script.java
+    └── script.java
 ```
 
 # 🚀How to Run
