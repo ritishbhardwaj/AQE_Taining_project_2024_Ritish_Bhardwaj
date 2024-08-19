@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/AQE_Taining_project_2024_Ritish_Bhardwaj/src/test/java/Automating_Wikipedia/Test/test_script.java">
+        <classes>
+            <class name="Automating_Wikipedia.Test.test_script">
+                <methods>
+                    <include name="testWikipediaLanguageLinks"/>
+                    <include name="testWikipediaSearch"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
